@@ -6,11 +6,9 @@ Most of the Solution was completed post-submission and post-awards ceremony (Unl
 Data Sourced from Machine Hacks. Most Code learnt from solution submission to Machine Hacks.
 
 ### Methods Used
-* Inferential Statistics
 * Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Predictive Modeling (Regression)
 
 ### Technologies (In Progress)
 * Python
