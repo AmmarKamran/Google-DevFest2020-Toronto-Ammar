@@ -22,13 +22,11 @@ Submission to Google DevFest2020 Toronto - As competitor in Google Developer Gro
 Partnered with Ayman Kamran.
 
 ## Needs of this project
-
 - frontend developers
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
